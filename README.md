@@ -11,7 +11,7 @@ This section showcases the rooms I have completed on TryHackMe, each with a brie
 <h3>1. Windows Fundamentals 1</h3>
 <p>This room covers the basics of the Windows operating system, including navigation and basic command-line usage.</p>
 <p align="center">
-<img src="https://example.com/windows1.png" height="80%" width="80%" alt="Windows Fundamentals 1"/>
+
 </p>
 <b>Tools Used:</b>
 - Windows OS
@@ -20,7 +20,7 @@ This section showcases the rooms I have completed on TryHackMe, each with a brie
 <h3>2. Windows Fundamentals 2</h3>
 <p>This room expands on Windows Fundamentals 1, focusing on user management and permissions.</p>
 <p align="center">
-<img src="https://example.com/windows2.png" height="80%" width="80%" alt="Windows Fundamentals 2"/>
+
 </p>
 <b>Tools Used:</b>
 - Windows OS
@@ -29,7 +29,7 @@ This section showcases the rooms I have completed on TryHackMe, each with a brie
 <h3>3. Windows Fundamentals 3</h3>
 <p>This room delves deeper into Windows security features and networking basics.</p>
 <p align="center">
-<img src="https://example.com/windows3.png" height="80%" width="80%" alt="Windows Fundamentals 3"/>
+
 </p>
 <b>Tools Used:</b>
 - Windows OS
@@ -38,7 +38,7 @@ This section showcases the rooms I have completed on TryHackMe, each with a brie
 <h3>4. Operating System Security</h3>
 <p>This room introduces operating system security concepts and practices.</p>
 <p align="center">
-<img src="https://example.com/os_security.png" height="80%" width="80%" alt="Operating System Security"/>
+
 </p>
 <b>Tools Used:</b>
 - Various Linux Distributions
@@ -47,7 +47,7 @@ This section showcases the rooms I have completed on TryHackMe, each with a brie
 <h3>5. Network Security</h3>
 <p>This room covers fundamental network security concepts and tools.</p>
 <p align="center">
-<img src="https://example.com/network_security.png" height="80%" width="80%" alt="Network Security"/>
+
 </p>
 <b>Tools Used:</b>
 - Wireshark
@@ -56,7 +56,7 @@ This section showcases the rooms I have completed on TryHackMe, each with a brie
 <h3>6. Intro to Digital Forensics</h3>
 <p>This room provides an introduction to digital forensics, focusing on data recovery and analysis.</p>
 <p align="center">
-<img src="https://example.com/digital_forensics.png" height="80%" width="80%" alt="Intro to Digital Forensics"/>
+
 </p>
 <b>Tools Used:</b>
 - Autopsy
@@ -65,7 +65,7 @@ This section showcases the rooms I have completed on TryHackMe, each with a brie
 <h3>7. Security Operations</h3>
 <p>This room explores the basics of security operations and incident management.</p>
 <p align="center">
-<img src="https://example.com/security_operations.png" height="80%" width="80%" alt="Security Operations"/>
+
 </p>
 <b>Tools Used:</b>
 - SIEM Tools
@@ -74,7 +74,7 @@ This section showcases the rooms I have completed on TryHackMe, each with a brie
 <h3>8. Starting Out in Cyber Sec</h3>
 <p>This room provides an overview of various cybersecurity concepts and career paths.</p>
 <p align="center">
-<img src="https://example.com/cybersec_basics.png" height="80%" width="80%" alt="Starting Out in Cyber Sec"/>
+
 </p>
 <b>Tools Used:</b>
 - Various Cybersecurity Tools
@@ -82,7 +82,7 @@ This section showcases the rooms I have completed on TryHackMe, each with a brie
 <h3>9. Walking an Application</h3>
 <p>This room focuses on understanding application security by walking through a sample application.</p>
 <p align="center">
-<img src="https://example.com/walking_application.png" height="80%" width="80%" alt="Walking an Application"/>
+
 </p>
 <b>Tools Used:</b>
 - Application Scanners
@@ -90,7 +90,7 @@ This section showcases the rooms I have completed on TryHackMe, each with a brie
 <h3>10. Content Discovery</h3>
 <p>This room covers techniques for discovering hidden content on websites.</p>
 <p align="center">
-<img src="https://example.com/content_discovery.png" height="80%" width="80%" alt="Content Discovery"/>
+
 </p>
 <b>Tools Used:</b>
 - Web Scanners
